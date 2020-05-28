@@ -1,9 +1,5 @@
 ![Header](/images/header.png)
 
-Auckland, New Zealand
-
-I am looking to innovate and create value with technology.
-
 # GoodMorning - SwiftUI
 SwiftUI, Foundation, Codable, URLSession. 
 - Programatic reusable UI elements and MVVM conforming architecture. 
