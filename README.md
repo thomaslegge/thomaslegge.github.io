@@ -1,4 +1,3 @@
-# Thomas Legge
 Auckland, NZ
 
 I am looking to innovate and add value with technology.
