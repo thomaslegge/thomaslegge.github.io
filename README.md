@@ -1,8 +1,8 @@
-Auckland, NZ
+<a href="https://www.linkedin.com/in/thomas-legge-418263181/" rel="Footer">![Footer](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/footer.png)</a>
 
-I am looking to innovate and add value with technology.
+Auckland, New Zealand
 
-Here is a sample of my past work.
+I am looking to innovate and create value with technology.
 
 # GoodMorning - SwiftUI
 SwiftUI, Foundation, Codable, URLSession. 
