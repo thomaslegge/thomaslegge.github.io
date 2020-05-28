@@ -3,7 +3,7 @@
 # GoodMorning - SwiftUI
 SwiftUI, Foundation, Codable, URLSession. 
 - Programatic reusable UI elements and MVVM conforming architecture. 
-- Webservice with error checking and handeling, secured with https.
+- Webservice with error checking and handling, secured with https.
 
 <a href="https://github.com/thomaslegge/GoodMorning" rel="GoodMorningHeader">![GoodMorningHeader](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/header.png)</a>
 <a href="https://github.com/thomaslegge/GoodMorning" rel="GoodMorningSample1">![GoodMorningSample1](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/sample1.png)</a>
