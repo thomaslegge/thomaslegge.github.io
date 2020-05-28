@@ -1,2 +1,15 @@
-# thomaslegge.github.io
-Portfolio
+# Thomas Legge
+Auckland, NZ
+
+I am looking to innovate and add value with technology.
+
+Here is a sample of my past work.
+
+# GoodMorning - SwiftUI
+<a href="https://github.com/thomaslegge/GoodMorning" rel="GoodMorningHeader">![GoodMorningHeader](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/header.png)</a>
+<a href="https://github.com/thomaslegge/GoodMorning" rel="GoodMorningSample1">![GoodMorningSample1](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/sample1.png)</a>
+
+# SimpleWeather - UIKit
+<a href="https://github.com/thomaslegge/SimpleWeatherTest" rel="SimpleWeatherTestHero">![SimpleWeatherTestHero](https://raw.githubusercontent.com/thomaslegge/SimpleWeatherTest/master/Images/Hero.png)</a>
+
+<a href="https://www.linkedin.com/in/thomas-legge-418263181/" rel="Footer">![Footer](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/footer.png)</a>
