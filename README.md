@@ -9,6 +9,14 @@ Here is a sample of my past work.
 <a href="https://github.com/thomaslegge/GoodMorning" rel="GoodMorningHeader">![GoodMorningHeader](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/header.png)</a>
 <a href="https://github.com/thomaslegge/GoodMorning" rel="GoodMorningSample1">![GoodMorningSample1](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/sample1.png)</a>
 
+# AI
+Some of my AI study and models.
+- Fashion Classifier
+- Sign language letter identifier
+- Hand Written Digit identifier
+
+<a href="https://github.com/thomaslegge/TensorFlowPractice" rel="TensorFlowPractice">![TensorFlowPractice](https://raw.githubusercontent.com/thomaslegge/TensorFlowPractice/master/images/sample1.png)</a>
+
 # SimpleWeather - UIKit
 <a href="https://github.com/thomaslegge/SimpleWeatherTest" rel="SimpleWeatherTestHero">![SimpleWeatherTestHero](https://raw.githubusercontent.com/thomaslegge/SimpleWeatherTest/master/Images/Hero.png)</a>
 
