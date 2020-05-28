@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/thomas-legge-418263181/" rel="Footer">![Footer](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/footer.png)</a>
+![Header](/images/header.png)
 
 Auckland, New Zealand
 
