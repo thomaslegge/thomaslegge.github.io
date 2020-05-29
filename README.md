@@ -1,5 +1,3 @@
-Thomas Legge Work Contact
-
 ![HeroBanner](/images/HeroBanner.png)
 
 # GoodMorning - SwiftUI
@@ -29,3 +27,4 @@ I am eager to work with you.
 
 Lets get in touch:
 <a href="https://www.linkedin.com/in/thomas-legge-418263181/" rel="Footer">LinkedIn</a>
+<a href="mailto:thomas.legge.419@gmail.com" rel="Footer">email</a>
