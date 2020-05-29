@@ -1,13 +1,12 @@
-![Header](/images/header.png)
+![HeroBanner](/images/HeroBanner.png)
 
+<a href="https://github.com/thomaslegge/GoodMorning" rel="GoodMorningBanner">![GoodMorningBanner](/images/GoodMorningBanner.png)</a>
 # GoodMorning - SwiftUI
 SwiftUI, Foundation, Codable, URLSession. 
 - Programatic reusable UI elements and MVVM conforming architecture. 
 - Webservice with error checking and handling, secured with https.
 
-<a href="https://github.com/thomaslegge/GoodMorning" rel="GoodMorningHeader">![GoodMorningHeader](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/header.png)</a>
-<a href="https://github.com/thomaslegge/GoodMorning" rel="GoodMorningSample1">![GoodMorningSample1](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/sample1.png)</a>
-
+<a href="https://github.com/thomaslegge/TensorFlowPractice" rel="TensorFlowPractice">![AIBanner](/images/AI.png)</a>
 # AI
 Some of my AI study and models.
 Use of TensorFlow 2, Numpy, Python
@@ -15,10 +14,8 @@ Use of TensorFlow 2, Numpy, Python
 - Sign language letter identifier
 - Hand Written Digit identifier
 
-<a href="https://github.com/thomaslegge/TensorFlowPractice" rel="TensorFlowPractice">![TensorFlowPractice](https://raw.githubusercontent.com/thomaslegge/TensorFlowPractice/master/images/sample1.png)</a>
-
+<a href="https://github.com/thomaslegge/SimpleWeatherTest" rel="SimpleWeatherTestHero">![Weather](/images/Weather.png)</a>
 # SimpleWeather - UIKit
 UIKit, CoreLocation, Foundation, Codable, URLSession.
-<a href="https://github.com/thomaslegge/SimpleWeatherTest" rel="SimpleWeatherTestHero">![SimpleWeatherTestHero](https://raw.githubusercontent.com/thomaslegge/SimpleWeatherTest/master/Images/Hero.png)</a>
 
-<a href="https://www.linkedin.com/in/thomas-legge-418263181/" rel="Footer">![Footer](https://raw.githubusercontent.com/thomaslegge/GoodMorning/master/images/footer.png)</a>
+<a href="https://www.linkedin.com/in/thomas-legge-418263181/" rel="Footer">LinkedIn</a>
