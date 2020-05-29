@@ -6,7 +6,8 @@ Thomas Legge Work Contact
 SwiftUI, Foundation, Codable, URLSession. 
 - Programatic reusable UI elements and MVVM conforming architecture. 
 - Webservice with error checking and handling, secured with https.
-- Design and prototyping in Sketch and Figma with iteration, then built in code.
+- Design and prototyping in Sketch and Figma with iteration, then created code.
+- Ongoing TestFlight beta, running and scaling on multiple devices
 
 <a href="https://github.com/thomaslegge/GoodMorning" rel="GoodMorningBanner">![GoodMorningBanner](/images/GoodMorningBanner.png)</a>
 
