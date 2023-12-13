@@ -1,6 +1,14 @@
 [Github](https://github.com/thomaslegge)
 [Linkedin](https://www.linkedin.com/in/thomas-legge-418263181/)
 
+With a forward-thinking approach and a passion for exploration, I aim to contribute to innovative solutions. 
+
+Interested in machine learning, low latency, distributed systems, and augmented reality.
+
+# Writing
+
+[Roam Engineering: The state of tracking using Augmented Reality in iOS](https://roamdigital.com/engineering/the-state-of-tracking-using-augmented-reality-in-ios)
+
 # Education 
 
 ## The University of Auckland
