@@ -1,13 +1,11 @@
 [Github](https://github.com/thomaslegge)
 [Linkedin](https://www.linkedin.com/in/thomas-legge-418263181/)
 
-With a forward-thinking approach and a passion for exploration, I aim to contribute to innovative solutions. 
+I aim to contribute to innovative solutions with a forward-thinking approach and a passion for exploration. Interested in machine learning, low latency, distributed systems, and augmented reality.
 
-Interested in machine learning, low latency, distributed systems, and augmented reality.
+### Writing
 
-# Writing
-
-[Roam Engineering: The state of tracking using Augmented Reality in iOS](https://roamdigital.com/engineering/the-state-of-tracking-using-augmented-reality-in-ios)
+- [Roam Engineering: The state of tracking using Augmented Reality in iOS](https://roamdigital.com/engineering/the-state-of-tracking-using-augmented-reality-in-ios)
 
 # Education 
 
