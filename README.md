@@ -1,4 +1,11 @@
-# Thomas Legge
+# Education 
+
+## The University of Auckland
+### Bachelor of Science: Double Major in Computer Science and Information Systems
+[2016 to 2019](https://graduatesearch.auckland.ac.nz/home)
+- Software engineering for industry best practices, applied logic and mathematics
+- Exposure to existing systems, protocols, and standards.
+- Tech product market fit, business strategy and optimisation
 
 # Certificates
 
