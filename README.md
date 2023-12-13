@@ -1,3 +1,6 @@
+[Github](https://github.com/thomaslegge)
+[Linkedin](https://www.linkedin.com/in/thomas-legge-418263181/)
+
 # Education 
 
 ## The University of Auckland
