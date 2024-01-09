@@ -1,22 +1,27 @@
 [Github](https://github.com/thomaslegge)
 [Linkedin](https://www.linkedin.com/in/thomas-legge-418263181/)
 
-I aim to contribute to innovative solutions with a forward-thinking approach and a passion for exploration. Interested in machine learning, low latency, distributed systems, and augmented reality.
+Experienced in app development and passionate about data-driven solutions, I enjoy aligning technology strategies with business objectives. I’m seeking new challenges in innovative organizations. I’m most interested in machine learning and data driven decision making, low-latency systems, as well as augmented reality applications.
 
-### Writing
+*Writing*
 
 - [Roam Engineering: The state of tracking using Augmented Reality in iOS](https://roamdigital.com/engineering/the-state-of-tracking-using-augmented-reality-in-ios)
 
-# Education 
+*Education*
+
+## Victoria University of Wellington
+### Master of Computer Science 
+*Ongoing, Start: Trimester 1, 2024*
+
+Applied Machine Learning, Software Optimization, Distributed Systems
 
 ## The University of Auckland
-### Bachelor of Science: Double Major in Computer Science and Information Systems
-[2016 to 2019](https://graduatesearch.auckland.ac.nz/home)
-- Software engineering for industry best practices, applied logic and mathematics
-- Exposure to existing systems, protocols, and standards.
-- Tech product market fit, business strategy and optimisation
+### Bachelor of Science: Double Major in Computer Science and Information Systems 
+*[2016 to 2019](https://graduatesearch.auckland.ac.nz/home)*
 
-# Certificates
+Software Engineering, Applied Logic, Business Strategy
+
+*Certificates*
 
 ## [DeepLearning.AI](https://www.deeplearning.ai/)
 
