@@ -3,9 +3,13 @@
 
 Experienced in app development and passionate about data-driven solutions, I enjoy aligning technology strategies with business objectives. I’m seeking new challenges in innovative organizations. I’m most interested in machine learning and data driven decision making, low-latency systems, as well as augmented reality applications.
 
+---
+
 # Writing
 
 - [Roam Engineering: The state of tracking using Augmented Reality in iOS](https://roamdigital.com/engineering/the-state-of-tracking-using-augmented-reality-in-ios)
+
+---
 
 # Education
 
@@ -20,6 +24,8 @@ Applied Machine Learning, Software Optimization, Distributed Systems
 *[2016 to 2019](https://graduatesearch.auckland.ac.nz/home)*
 
 Software Engineering, Applied Logic, Business Strategy
+
+---
 
 # Certificates
 
